@@ -1,0 +1,37 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz”
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/dd78336f-85f8-8567-4184-50ccb229cdbc.png",ABC
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/9ab59cac45e7b25e/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/68d5512d-4f72-e8f1-3568-29285bae6c27.png",Animal Planet
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/5f8a18e2a9158ea6/playlist.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/fcd0b6b2-5600-6bb2-c06d-708f5890274b.png",C-SPAN
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/8a24b6df034004a0/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="DISNEY" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/2abfacdc-8095-ce3b-9f47-7429f56884b5.png",Disney Channel
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/d5ecf854453ea2c6/playlist.m3u8
+#EXTINF:-1 tvg-id="DVD1.us2" tvg-name="DVD Player 1" tvg-logo="https://s3.amazonaws.com/edassetone/ed-graysonhs/image/a83f310f-febc-1839-eae7-244d6bba4126.jpeg",DVD Player 1
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/53da6b4cf81a8cb9/playlist.m3u8
+#EXTINF:-1 tvg-id="DVD2.us2" tvg-name="DVD Player 2" tvg-logo="https://s3.amazonaws.com/edassetone/ed-graysonhs/image/a83f310f-febc-1839-eae7-244d6bba4126.jpeg",DVD Player 2
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/53da6b4cf81a8cb9/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/b02cf402-c4ff-4819-dc49-2b7fd54bfbbf.png",Discovery Channel
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/53da6b4cf81a8cb9/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/9abdb5f7-e96f-0c44-0ef1-430d999d25c5.png",ESPN
+https://viewcdna.streamvued.com/hls/3f433cc73370bfb2/index.m3u8
+#EXTINF:-1 tvg-id="FOX.National.Feed.us2" tvg-name="Fox 5" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/2764e184-9d5b-70e1-4162-e140f4fac9aa.png",FOX (WAGA)
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/f3679aa58f62482b/playlist.m3u8
+#EXTINF:-1 tvg-id="GCPS.TV.us2" tvg-name="GCPSTV" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/4214d81f-eede-da29-667a-cfae58a2e7b7.png",GCPS TV
+https://viewcdna.streamvued.com/hls/77e1f268686c0249/index.m3u8
+#EXTINF:-1 tvg-id="GHS.Broadcast.Studio.us2" tvg-name="Broadcast Studio" tvg-logo="https://s3.amazonaws.com/edassetone/ed-graysonhs/image/29433a82-7abb-f06e-9c67-b8420ec79dbf.png",Grayson Broadcast Studio
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/77e1f268686c0249/playlist.m3u8
+#EXTINF:-1 tvg-id="GHS.Community.Channel.us2" tvg-name="Grayson Community Channel" tvg-logo="https://s3.amazonaws.com/edassetone/ed-graysonhs/image/53502efb-98df-c210-ddfd-8d16100cbc80.png",Grayson Community Channel
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/77e1f268686c0249/playlist.m3u8
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/9e028d12-2c40-1553-62e3-538109676b55.png",HLN
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/684e661bd405ce49/playlist.m3u8
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/9a1baaa8-d92b-8a8b-0f2d-e8609d900cb1.png",History Channel
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/4b5066369629b173/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="Local Weather" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/969c029b-c651-6e14-b0a1-829cbc55bc7b.jpeg",Local Weather (AccuWeather)
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/2f51b81e36175c90/playlist.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/4d2021c0-e0b6-facc-56ff-835adc9898ab.png",National Geographic
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/7f28ec56253188a1/playlist.m3u8
+#EXTINF:-1 tvg-id="On.Location.Cart.us2" tvg-name="On Location Cart" tvg-logo="https://s3.amazonaws.com/edassetone/ed-graysonhs/image/b65c50c3-5117-bc3e-78f0-036f31915852.jpeg",On Location Cart
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/53da6b4cf81a8cb9/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.Stream.us2" tvg-name="PBS" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/85365158-7f1e-7735-eb60-ff8f7f5a89fa.png",PBS (WGVU)
+https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/896ccf2833492f3f/playlist.m3u8
