@@ -14,11 +14,11 @@ https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/53da6
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/b02cf402-c4ff-4819-dc49-2b7fd54bfbbf.png",Discovery Channel
 https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/53da6b4cf81a8cb9/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/9abdb5f7-e96f-0c44-0ef1-430d999d25c5.png",ESPN
-https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/3f433cc73370bfb2/playlist.m3u8
+https://viewcdna.streamvued.com/hls/3f433cc73370bfb2/index.m3u8
 #EXTINF:-1 tvg-id="FOX.National.Feed.us2" tvg-name="Fox 5" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/2764e184-9d5b-70e1-4162-e140f4fac9aa.png",FOX (WAGA)
 https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/f3679aa58f62482b/playlist.m3u8
 #EXTINF:-1 tvg-id="GCPS.TV.us2" tvg-name="GCPSTV" tvg-logo="https://s3.amazonaws.com/edassetone/ed-gwinnett/image/4214d81f-eede-da29-667a-cfae58a2e7b7.png",GCPS TV
-https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/77e1f268686c0249/playlist.m3u8
+https://viewcdna.streamvued.com/hls/77e1f268686c0249/index.m3u8
 #EXTINF:-1 tvg-id="GHS.Broadcast.Studio.us2" tvg-name="Broadcast Studio" tvg-logo="https://s3.amazonaws.com/edassetone/ed-graysonhs/image/29433a82-7abb-f06e-9c67-b8420ec79dbf.png",Grayson Broadcast Studio
 https://43bbe329-f51d-4b72-96ee-f8396eaf1cf7.streamvuconnect.com/media/hls/77e1f268686c0249/playlist.m3u8
 #EXTINF:-1 tvg-id="GHS.Community.Channel.us2" tvg-name="Grayson Community Channel" tvg-logo="https://s3.amazonaws.com/edassetone/ed-graysonhs/image/53502efb-98df-c210-ddfd-8d16100cbc80.png",Grayson Community Channel
