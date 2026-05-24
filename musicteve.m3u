@@ -13,7 +13,7 @@ http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV East (Backup)
 http://84.17.50.102/mtv/index.m3u8
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV East (Alternative Backup)
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV East (Alt Backup)
 http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="Live Channels",MTV2 East
 http://fl1.moveonjoy.com/MTV_2/index.m3u8
