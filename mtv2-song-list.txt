@@ -33,6 +33,7 @@ MTV2 Song List:
 [Small TV-PG] FKA Twigs - Cellophane
 [Small TV-PG] Fleetwood Mac - Tusk
 [Small Advert] Fountains Of Wayne - Stacy's Mom
+[Small TV-PG] Franz Ferdinand - Take Me Out
 [Small TV-PG] George Michael - Freedom '90
 [Small Advert] Goo Goo Dolls - I'm Awake Now
 [Small Advert] Green Day - 21 Guns
@@ -55,6 +56,7 @@ MTV2 Song List:
 [Small TV-PG] Madonna - 4 Minutes (ft. Justin Timberlake & Timbaland)
 [Small TV-PG] Madonna - Hung Up
 [Big TV-PG] Madonna - Material Girl
+[Small TV-PG] Madonna - Rain
 [Small TV-PG] Megan Thee Stallion - Cobra
 [Small TV-PG] Megan Thee Stallion & Dua Lipa - Sweetest Pie
 [Small TV-PG] Metallica - Enter Sandman
@@ -64,7 +66,9 @@ MTV2 Song List:
 [Small TV-PG] Nirvana - Heart-Shaped Box
 [Small TV-PG] 'NSYNC - Pop
 [Small Advert] Outkast - Hey Ya
+[PERFECT] Outkast - Prototype
 [Small Advert] Pat Benatar - Love Is A Battlefield
+[PERFECT] Paula Abdul - Straight Up
 [Small TV-PG] Pretenders - Brass In Pocket
 [Small Advert] Psychedelic Furs - Pretty In Pink (Version 2)
 [Small TV-PG] Pussycat Dolls - Buttons (ft. Snoop Dogg)
@@ -83,8 +87,10 @@ MTV2 Song List:
 [Big TV-PG + Small Advert] Taylor Swift - Fortnight (ft. Post Malone)
 [Small TV-PG] Taylor Swift - Look What You Made Me Do
 [Small TV-PG] The Chainsmokers - You Owe Me
+[Small TV-PG] The Kid LAROI - Stay (ft. Justin Bieber)
 [Small Advert] The Killers - Mr. Brightside
 [Small Advert] The Ramones - Poison Heart
+[Small TV-PG] The White Stripes - Fell In Love With A Girl
 [Small TV-PG] Toni Basil - Mickey
 [Small TV-PG] Troye Sivan - Rush
 [Small TV-PG] Tyla - Water
