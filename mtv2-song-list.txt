@@ -21,6 +21,7 @@ MTV2 Song List:
 [Small TV-PG] Chris Isaak - Wicked Game (Vers. 2)
 [Small TV-PG] Christina Aguilera - Ain't No Other Man
 [Small TV-PG] Christina Aguilera - Fighter
+[Big TV-PG + Small Advert] Coldplay - Adventure Of A Lifetime
 [Small TV-PG + Small Advert] Dead or Alive - Something In My House
 [Small TV-PG] Deniece Williams - Let's Hear It For The Boy
 [Small TV-PG] Destiny's Child - Soldier (ft. T.I. & Lil Wayne)
@@ -92,6 +93,7 @@ MTV2 Song List:
 [Big TV-PG] Taylor Swift - Blank Space
 [Big TV-PG + Small Advert] Taylor Swift - Fortnight (ft. Post Malone)
 [Small TV-PG] Taylor Swift - Look What You Made Me Do
+[Small TV-PG] Taylor Swift - Wildest Dreams
 [Small TV-PG] The Chainsmokers - You Owe Me
 [Small TV-PG] The Fugees (Refugee Camp) - Ready Or Not
 [Small TV-PG] The Kid LAROI - Stay (ft. Justin Bieber)
