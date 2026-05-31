@@ -5,6 +5,7 @@ MTV2 Song List:
 [Small Advert] 50 Cent - Disco Inferno
 [PERFECT] Addison Rae - Diet Pepsi
 [Small TV-PG] Aerosmith - Jaded
+[PERFECT] Andrew Gold - Thank You For Being A Friend
 [Small TV-PG] Annie Lennox - Walking On Broken Glass
 [Small Advert] Art Of Noise - Close To The Edit (ft. Rakim)
 [Small Advert] Bangles - Manic Monday
@@ -15,6 +16,7 @@ MTV2 Song List:
 [Small TV-PG] Billy Joel - It's Still Rock And Roll To Me
 [Big TV-PG + Small Advert] Bjork - Human Behavior
 [Small TV-PG] Blind Melon - No Rain
+[Small Advert] Blondie - Heart Of Glass
 [Small TV-PG] Blur - Coffee & TV
 [Small TV-PG + Small Advert] Bon Jovi - Miracle
 [Big TV-PG] Britney Spears - Lucky
@@ -62,6 +64,7 @@ MTV2 Song List:
 [Small TV-PG] Kendrick Lamar - HUMBLE.
 [Big TV-PG] Lady Gaga - Alejandro
 [PERFECT] Lady Gaga - Paparazzi
+[Small TV-PG] Lee Ritenour - Is It You
 [Small Advert] Lenny Kravitz - TK421
 [Small TV-PG] Lewis Capaldi - Wish You The Best
 [PERFECT] Ludacris - Number One Spot / The Potion
@@ -69,6 +72,7 @@ MTV2 Song List:
 [Small TV-PG] Madonna - Hung Up
 [Big TV-PG] Madonna - Material Girl
 [Small TV-PG] Madonna - Rain
+[Big TV-PG + Small Advert] Marcy Playground - Sex And Candy
 [Small Advert] Marshmello - Happier (ft. Bastille)
 [Small TV-PG] Megan Thee Stallion - Cobra
 [Small TV-PG] Megan Thee Stallion & Dua Lipa - Sweetest Pie
@@ -88,10 +92,13 @@ MTV2 Song List:
 [Small TV-PG] Pretenders - Talk Of The Town
 [Small Advert] Psychedelic Furs - Pretty In Pink (Version 2)
 [Small TV-PG] Pussycat Dolls - Buttons (ft. Snoop Dogg)
+[Small TV-PG] Rainbow - Can't Happen Here
 [Small TV-PG] R.E.M. - Losing My Religion
+[Small Advert] Reo Speedwagon - Don't Let Him Go
 [Small Advert] Rihanna - Disturbia
 [Small TV-PG] Rihanna - We Found Love (ft. Calvin Harris)
 [Small Advert] Robert Palmer - Looking For Clues
+[Small TV-PG] Rockpile - Little Sister (ft. Robert Plant)
 [Big TV-PG] Rod Stewart - Passion
 [Big TV-PG + Small Advert] Rod Stewart - She Won't Dance
 [Small Advert] Salt-N-Pepa - Whatta Man (ft. En Vogue)
@@ -99,7 +106,10 @@ MTV2 Song List:
 [Small TV-PG] Shakira - Can't Remember To Forget You (ft. Rihanna)
 [Small Advert] Shakira - Whenever, Wherever
 [Small Advert] Shania Twain - Man, I Feel Like A Woman!
+[Small Advert] Shoes - Too Late
+[Small Advert] Split Enz - I Got You
 [Small Advert] Split Enz - One Step Ahead
+[Small TV-PG] Stevie Nicks - Stop Draggin' My Heart Around
 [Small Advert] STYX - Rockin The Paradise
 [Small Advert] Swedish House Mafia - Save The World
 [Small TV-PG] Talking Heads - Once In A Lifetime
