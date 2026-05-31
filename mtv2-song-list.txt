@@ -6,28 +6,35 @@ MTV2 Song List:
 [PERFECT] Addison Rae - Diet Pepsi
 [Small TV-PG] Aerosmith - Jaded
 [Small TV-PG] Annie Lennox - Walking On Broken Glass
+[Small Advert] Art Of Noise - Close To The Edit (ft. Rakim)
 [Small Advert] Bangles - Manic Monday
 [Small Advert] Beastie Boys - Sabotage
 [Small TV-PG] Beyonce - Crazy In Love (ft. Jay-Z)
 [Big TV-PG] Beyonce - Partition
 [Small TV-PG] Beyonce & Shakira - Beautiful Liar
 [Small TV-PG] Billy Joel - It's Still Rock And Roll To Me
+[Big TV-PG + Small Advert] Bjork - Human Behavior
+[Small TV-PG] Blind Melon - No Rain
+[Small TV-PG] Blur - Coffee & TV
 [Small TV-PG + Small Advert] Bon Jovi - Miracle
 [Big TV-PG] Britney Spears - Lucky
 [Small TV-PG] Britney Spears - Womanizer
 [Small TV-PG] Bruce Springsteen - Dancing In The Dark
 [Small TV-PG] Busta Rhymes - Gimme Some More
+[Small TV-PG] Carly Rae Jepsen - Now That I Found You
 [Small TV-PG] Childish Gambino - This Is America
 [Small TV-PG] Chris Isaak - Wicked Game (Vers. 2)
 [Small TV-PG] Christina Aguilera - Ain't No Other Man
 [Small TV-PG] Christina Aguilera - Fighter
 [Big TV-PG + Small Advert] Coldplay - Adventure Of A Lifetime
+[Small Advert] Daft Punk - Da Funk
 [Small TV-PG + Small Advert] Dead or Alive - Something In My House
 [Small TV-PG] Deniece Williams - Let's Hear It For The Boy
 [Small TV-PG] Destiny's Child - Soldier (ft. T.I. & Lil Wayne)
 [Small Advert] Divinyls - I Touch Myself
 [Small TV-PG] Doja Cat - Juicy (ft. Tyga)
 [PERFECT] Doja Cat - Kiss Me More (ft. SZA)
+[Small TV-PG] Electric Six - Danger! High Voltage
 [Small Advert] Elvis Costello & The Attractions - (What's So Funny 'Bout) Peace, Love and Understanding
 [Big TV-PG] Eminem - Houdini
 [Small Advert] Eminem - Mockingbird
@@ -56,17 +63,20 @@ MTV2 Song List:
 [Big TV-PG] Lady Gaga - Alejandro
 [PERFECT] Lady Gaga - Paparazzi
 [Small Advert] Lenny Kravitz - TK421
+[Small TV-PG] Lewis Capaldi - Wish You The Best
 [PERFECT] Ludacris - Number One Spot / The Potion
 [Small TV-PG] Madonna - 4 Minutes (ft. Justin Timberlake & Timbaland)
 [Small TV-PG] Madonna - Hung Up
 [Big TV-PG] Madonna - Material Girl
 [Small TV-PG] Madonna - Rain
+[Small Advert] Marshmello - Happier (ft. Bastille)
 [Small TV-PG] Megan Thee Stallion - Cobra
 [Small TV-PG] Megan Thee Stallion & Dua Lipa - Sweetest Pie
 [Small TV-PG] Metallica - Enter Sandman
 [Small TV-PG] Michael Sembello - Maniac (Prechyroned Vers.)
 [Small TV-PG] Missy Elliott - Work It
 [Small Advert] Nelly Furtado - Promiscuous (ft. Timbaland)
+[Small TV-PG] New Order - Blue Monday '88
 [Small Advert] Nicki Minaj - Anaconda
 [Small TV-PG] Nirvana - Heart-Shaped Box
 [Small TV-PG] 'NSYNC - Pop
@@ -82,18 +92,23 @@ MTV2 Song List:
 [Small TV-PG] Rihanna - We Found Love (ft. Calvin Harris)
 [Small Advert] Robert Palmer - Looking For Clues
 [Big TV-PG] Rod Stewart - Passion
+[Big TV-PG + Small Advert] Rod Stewart - She Won't Dance
 [Small Advert] Salt-N-Pepa - Whatta Man (ft. En Vogue)
 [Small TV-PG] Selena Gomez - Hands To Myself
 [Small TV-PG] Shakira - Can't Remember To Forget You (ft. Rihanna)
+[Small Advert] Shakira - Whenever, Wherever
 [Small Advert] Shania Twain - Man, I Feel Like A Woman!
 [Small Advert] Split Enz - One Step Ahead
 [Small Advert] STYX - Rockin The Paradise
+[Small Advert] Swedish House Mafia - Save The World
 [Small TV-PG] Talking Heads - Once In A Lifetime
+[Small TV-PG] Talk Talk - It's My Life
 [Small Advert] Tate McRae - exes
 [Big TV-PG] Taylor Swift - Blank Space
 [Big TV-PG + Small Advert] Taylor Swift - Fortnight (ft. Post Malone)
 [Small TV-PG] Taylor Swift - Look What You Made Me Do
 [Small TV-PG] Taylor Swift - Wildest Dreams
+[Small TV-PG] The Avalanches - Frontier Psychiatrist
 [Small TV-PG] The Chainsmokers - You Owe Me
 [Small TV-PG] The Fugees (Refugee Camp) - Ready Or Not
 [Small TV-PG] The Kid LAROI - Stay (ft. Justin Bieber)
@@ -101,9 +116,12 @@ MTV2 Song List:
 [Small Advert] The Ramones - Poison Heart
 [Small TV-PG] The White Stripes - Fell In Love With A Girl
 [Small TV-PG] Toni Basil - Mickey
+[Small Advert] Tori Amos - A Sorta Fairytale
 [Small TV-PG] Troye Sivan - Rush
 [Small TV-PG] Tyla - Water
 [Small TV-PG] Usher - Confessions II
 [Small Advert] Victoria Monét - Alright
 [Small TV-PG] Warrant - Cherry Pie
+[Small Advert] Ween - Push Th' Little Daisies
+[Small TV-PG] Weezer - Island In The Sun
 [Small Advert] Young Thug - Wyclef Jean
