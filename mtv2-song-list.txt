@@ -7,8 +7,11 @@ MTV2 Song List:
 [Small TV-PG] Aerosmith - Jaded
 [PERFECT] Andrew Gold - Thank You For Being A Friend
 [Small TV-PG] Annie Lennox - Walking On Broken Glass
+[Small Advert] Aqua - Barbie Girl
 [Small Advert] Art Of Noise - Close To The Edit (ft. Rakim)
+[Small Advert] Backstreet Boys - Quit Playing Games (With My Heart)
 [Small Advert] Bangles - Manic Monday
+[Small TV-PG] Barenaked Ladies - One Week
 [Small Advert] Beastie Boys - Sabotage
 [Small TV-PG] Beyonce - Crazy In Love (ft. Jay-Z)
 [Big TV-PG] Beyonce - Partition
@@ -19,14 +22,18 @@ MTV2 Song List:
 [Small Advert] Blondie - Heart Of Glass
 [Small TV-PG] Blur - Coffee & TV
 [Small TV-PG + Small Advert] Bon Jovi - Miracle
+[Small TV-PG] Brandy & Monica - The Boy Is Mine
+[Big TV-PG + Small Advert] Britney Spears - From The Bottom Of My Broken Heart
 [Big TV-PG] Britney Spears - Lucky
 [Small TV-PG] Britney Spears - Womanizer
 [Small TV-PG] Bruce Springsteen - Dancing In The Dark
 [Small TV-PG] Busta Rhymes - Gimme Some More
 [Small TV-PG] Carly Rae Jepsen - Now That I Found You
+[Small TV-PG] Cher - Believe
 [Small TV-PG] Childish Gambino - This Is America
 [Small TV-PG] Chris Isaak - Wicked Game (Vers. 2)
 [Small TV-PG] Christina Aguilera - Ain't No Other Man
+[Small TV-PG] Christina Aguilera - Candyman
 [Small TV-PG] Christina Aguilera - Fighter
 [Big TV-PG + Small Advert] Coldplay - Adventure Of A Lifetime
 [Small Advert] Daft Punk - Da Funk
@@ -38,6 +45,7 @@ MTV2 Song List:
 [PERFECT] Doja Cat - Kiss Me More (ft. SZA)
 [Small TV-PG] Electric Six - Danger! High Voltage
 [Small Advert] Elvis Costello & The Attractions - (What's So Funny 'Bout) Peace, Love and Understanding
+[Small TV-PG] Eminem - Cleanin Out My Closet
 [Big TV-PG] Eminem - Houdini
 [Small Advert] Eminem - Mockingbird
 [Small TV-PG] Eminem - Without Me
@@ -51,6 +59,7 @@ MTV2 Song List:
 [Small Advert] Green Day - 21 Guns
 [Small TV-PG] Gwar - Gor-Gor
 [Small Advert] Gwen Stefani - Hollaback Girl
+[Small TV-PG] Hootie & The Blowfish - Only Wanna Be With You
 [Big TV-PG + Small Advert] Huey Lewis and the News - Doing It All For My Baby
 [Big TV-PG] Jamiroquai - Virtual Insanity
 [Small TV-PG] Janet Jackson - Love Will Never Do (Without You)
@@ -60,6 +69,7 @@ MTV2 Song List:
 [Small Advert] Justin Timberlake - What Goes Around...Comes Around
 [Big TV-PG] Katy Perry - California Girls (ft. Snoop Dogg)
 [Small TV-PG] Kelis - Milkshake
+[Small Advert] Kelly Clarkson - Because Of You
 [Small TV-PG] Kelly Clarkson - Behind These Hazel Eyes
 [Small TV-PG] Kendrick Lamar - HUMBLE.
 [Big TV-PG] Lady Gaga - Alejandro
@@ -67,12 +77,14 @@ MTV2 Song List:
 [Small TV-PG] Lee Ritenour - Is It You
 [Small Advert] Lenny Kravitz - TK421
 [Small TV-PG] Lewis Capaldi - Wish You The Best
+[Small Advert] Los Del Rio - Macarena (Remix Version) (ft. The Bayside Boys)
 [PERFECT] Ludacris - Number One Spot / The Potion
 [Small TV-PG] Madonna - 4 Minutes (ft. Justin Timberlake & Timbaland)
 [Small TV-PG] Madonna - Hung Up
 [Big TV-PG] Madonna - Material Girl
 [Small TV-PG] Madonna - Rain
 [Big TV-PG + Small Advert] Marcy Playground - Sex And Candy
+[Small Advert] Mariah Carey & Boys II Men - One Sweet Day
 [Small Advert] Marshmello - Happier (ft. Bastille)
 [Small TV-PG] Megan Thee Stallion - Cobra
 [Small TV-PG] Megan Thee Stallion & Dua Lipa - Sweetest Pie
@@ -83,9 +95,11 @@ MTV2 Song List:
 [Small TV-PG] New Order - Blue Monday '88
 [Small Advert] Nicki Minaj - Anaconda
 [Small TV-PG] Nirvana - Heart-Shaped Box
+[Small TV-PG] NSYNC - I Drive Myself Crazy
 [Small TV-PG] 'NSYNC - Pop
 [Small Advert] Outkast - Hey Ya
 [PERFECT] Outkast - Prototype
+[Small TV-PG] Outkast - So Fresh, So Clean
 [Small Advert] Pat Benatar - Love Is A Battlefield
 [PERFECT] Paula Abdul - Straight Up
 [Small TV-PG] Pretenders - Brass In Pocket
@@ -96,6 +110,7 @@ MTV2 Song List:
 [Small TV-PG] R.E.M. - Losing My Religion
 [Small Advert] Reo Speedwagon - Don't Let Him Go
 [Small Advert] Rihanna - Disturbia
+[Small Advert] Rihanna - S.O.S.
 [Small TV-PG] Rihanna - We Found Love (ft. Calvin Harris)
 [Small Advert] Robert Palmer - Looking For Clues
 [Small TV-PG] Rockpile - Little Sister (ft. Robert Plant)
@@ -107,6 +122,7 @@ MTV2 Song List:
 [Small Advert] Shakira - Whenever, Wherever
 [Small Advert] Shania Twain - Man, I Feel Like A Woman!
 [Small Advert] Shoes - Too Late
+[Small TV-PG] Sixpence None The Richer - Kiss Me
 [Small Advert] Split Enz - I Got You
 [Small Advert] Split Enz - One Step Ahead
 [Small TV-PG] Stevie Nicks - Stop Draggin' My Heart Around
@@ -120,17 +136,20 @@ MTV2 Song List:
 [Small TV-PG] Taylor Swift - Look What You Made Me Do
 [Small TV-PG] Taylor Swift - Wildest Dreams
 [Small TV-PG] The Avalanches - Frontier Psychiatrist
+[Small Advert] The Breeders - Cannonball
 [Small TV-PG] The Chainsmokers - You Owe Me
 [Small TV-PG] The Fugees (Refugee Camp) - Ready Or Not
 [Small TV-PG] The Kid LAROI - Stay (ft. Justin Bieber)
 [Small Advert] The Killers - Mr. Brightside
 [Small Advert] The Ramones - Poison Heart
+[Small TV-PG] The Verve - Bitter Sweet Symphony
 [Small TV-PG] The White Stripes - Fell In Love With A Girl
 [Small TV-PG] Toni Basil - Mickey
 [Small Advert] Tori Amos - A Sorta Fairytale
 [Small TV-PG] Troye Sivan - Rush
 [Small TV-PG] Tyla - Water
 [Small TV-PG] Usher - Confessions II
+[Small Advert] Usher - Yeah (ft. Lil Jon & Ludacris)
 [Small Advert] Victoria Monét - Alright
 [Small TV-PG] Warrant - Cherry Pie
 [Small Advert] Ween - Push Th' Little Daisies
