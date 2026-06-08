@@ -2,6 +2,7 @@ MTV2 Song List:
 
 [Small Advert] 30 Seconds To Mars - The Kill
 [Small TV-PG] .38 Special - Hold On Loosely
+[Small TV-PG] 50 Cent - Candy Shop
 [Small Advert] 50 Cent - Disco Inferno
 [PERFECT] Addison Rae - Diet Pepsi
 [Small TV-PG] Aerosmith - Jaded
@@ -14,6 +15,7 @@ MTV2 Song List:
 [Small TV-PG] Barenaked Ladies - One Week
 [Small Advert] Beastie Boys - Sabotage
 [Small TV-PG] Beyonce - Crazy In Love (ft. Jay-Z)
+[Big TV-PG] Beyonce - Drunk In Love (ft. Jay-Z)
 [Big TV-PG] Beyonce - Partition
 [Small TV-PG] Beyonce & Shakira - Beautiful Liar
 [Small TV-PG] Billy Joel - It's Still Rock And Roll To Me
@@ -25,6 +27,7 @@ MTV2 Song List:
 [Small TV-PG] Brandy & Monica - The Boy Is Mine
 [Big TV-PG + Small Advert] Britney Spears - From The Bottom Of My Broken Heart
 [Big TV-PG] Britney Spears - Lucky
+[Small Advert] Britney Spears - Toxic (16:9)
 [Small TV-PG] Britney Spears - Womanizer
 [Small TV-PG] Bruce Springsteen - Dancing In The Dark
 [Small TV-PG] Busta Rhymes - Gimme Some More
@@ -49,6 +52,7 @@ MTV2 Song List:
 [Big TV-PG] Eminem - Houdini
 [Small Advert] Eminem - Mockingbird
 [Small TV-PG] Eminem - Without Me
+[Small Advert] Eric Prydz - Call On Me
 [Small Advert] Fiona Apple - Criminal
 [Small TV-PG] FKA Twigs - Cellophane
 [Small TV-PG] Fleetwood Mac - Tusk
@@ -68,6 +72,7 @@ MTV2 Song List:
 [PERFECT] Jennifer Lopez - Booty (ft. Iggy Azalea)
 [Small Advert] Justin Timberlake - What Goes Around...Comes Around
 [Big TV-PG] Katy Perry - California Girls (ft. Snoop Dogg)
+[Small TV-PG] Katy Perry - I Kissed A Girl
 [Small TV-PG] Kelis - Milkshake
 [Small Advert] Kelly Clarkson - Because Of You
 [Small TV-PG] Kelly Clarkson - Behind These Hazel Eyes
@@ -84,6 +89,7 @@ MTV2 Song List:
 [Big TV-PG] Madonna - Material Girl
 [Small TV-PG] Madonna - Rain
 [Big TV-PG + Small Advert] Marcy Playground - Sex And Candy
+[Small Advert] Mariah Carey - Touch My Body
 [Small Advert] Mariah Carey & Boys II Men - One Sweet Day
 [Small Advert] Marshmello - Happier (ft. Bastille)
 [Small TV-PG] Megan Thee Stallion - Cobra
