@@ -93,7 +93,7 @@ MTV2 Song List:
 [Small TV-PG] Missy Elliott - Work It
 [Small Advert] Nelly Furtado - Promiscuous (ft. Timbaland)
 [Small TV-PG] New Order - Blue Monday '88
-[Small Advert] Nicki Minaj - Anaconda
+[PERFECT] Nicki Minaj - Anaconda
 [Small TV-PG] Nirvana - Heart-Shaped Box
 [Small TV-PG] NSYNC - I Drive Myself Crazy
 [Small TV-PG] 'NSYNC - Pop
@@ -117,10 +117,10 @@ MTV2 Song List:
 [Big TV-PG] Rod Stewart - Passion
 [Big TV-PG + Small Advert] Rod Stewart - She Won't Dance
 [Small Advert] Salt-N-Pepa - Whatta Man (ft. En Vogue)
-[Small TV-PG] Selena Gomez - Hands To Myself
+[PERFECT] Selena Gomez - Hands To Myself
 [Small TV-PG] Shakira - Can't Remember To Forget You (ft. Rihanna)
 [Small Advert] Shakira - Whenever, Wherever
-[Small Advert] Shania Twain - Man, I Feel Like A Woman!
+[PERFECT] Shania Twain - Man, I Feel Like A Woman!
 [Small Advert] Shoes - Too Late
 [Small TV-PG] Sixpence None The Richer - Kiss Me
 [Small Advert] Split Enz - I Got You
