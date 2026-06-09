@@ -17,6 +17,7 @@ MTV2 Song List:
 [Small TV-PG] Beyonce - Crazy In Love (ft. Jay-Z)
 [Big TV-PG] Beyonce - Drunk In Love (ft. Jay-Z)
 [Big TV-PG] Beyonce - Partition
+[Small Advert] Beyonce - Single Ladies (Put A Ring On It) (2009 VMA Performance)
 [Small TV-PG] Beyonce & Shakira - Beautiful Liar
 [Small TV-PG] Billy Joel - It's Still Rock And Roll To Me
 [Big TV-PG + Small Advert] Bjork - Human Behavior
@@ -59,6 +60,7 @@ MTV2 Song List:
 [Small Advert] Fountains Of Wayne - Stacy's Mom
 [Small TV-PG] Franz Ferdinand - Take Me Out
 [Small TV-PG] George Michael - Freedom '90
+[Small TV-PG] George Michael - I Want Your Sex
 [Small Advert] Goo Goo Dolls - I'm Awake Now
 [Small Advert] Green Day - 21 Guns
 [Small TV-PG] Gwar - Gor-Gor
@@ -95,6 +97,7 @@ MTV2 Song List:
 [Small TV-PG] Megan Thee Stallion - Cobra
 [Small TV-PG] Megan Thee Stallion & Dua Lipa - Sweetest Pie
 [Small TV-PG] Metallica - Enter Sandman
+[Big TV-PG + Small Advert] Michael Jackson - Smooth Criminal
 [Small TV-PG] Michael Sembello - Maniac (Prechyroned Vers.)
 [Small TV-PG] Missy Elliott - Work It
 [Small Advert] Nelly Furtado - Promiscuous (ft. Timbaland)
