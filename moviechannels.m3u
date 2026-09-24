@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCWABC.us",ABC East (1080p)
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us",BBC America East (720p)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us",Comedy Central East (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us",Disney Channel East (720p)
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 tvg-id="DisneyJunior.us",Disney Junior East (480p)
+http://tvsen7.aynascope.net/disneyjr/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us",MTV2 East (720p)
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us",Nickelodeon East (720p)
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us",SYFY East (720p)
+http://tvsen7.aynascope.net/syfy/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us",TBS East (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="truTV.us",truTV East (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="VH1.us",VH1 East (720p)
+http://4.30.180.36:8420/vh1/index.m3u8?token=test  
