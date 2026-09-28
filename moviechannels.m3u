@@ -1,35 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABCWSB.us",ABC 2 Atlanta (East) (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/47977
+#EXTINF:-1 tvg-id="ABCWSB.us",ABC 2 Atlanta (720p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/120849
 #EXTINF:-1 tvg-id="BBCAmerica.us",BBC America East (720p)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
-#EXTINF:-1 tvg-id="CMT.us",CMT East (1080p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/44058
+#EXTINF:-1 tvg-id="CMT.us”,CMT East (1080p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46706
 #EXTINF:-1 tvg-id="ComedyCentral.us",Comedy Central East (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/44055
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/7466
 #EXTINF:-1 tvg-id="DisneyChannel.us",Disney Channel East (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/44050
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/2206
 #EXTINF:-1 tvg-id="DisneyJunior.us",Disney Junior East (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/44049
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/41960
 #EXTINF:-1 tvg-id="DisneyXD.us",DisneyXD East (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/44048
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/75621
+#EXTINF:-1 tvg-id="E.us",E! East (1080p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/11651
 #EXTINF:-1 tvg-id="FX.us",FX East (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/14172
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46690
+#EXTINF:-1 tvg-id="FXX.us",FXX East (720p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46699
 #EXTINF:-1 tvg-id="IFC.us",IFC East (1080p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/44021
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/9272
+#EXTINF:-1 tvg-id="MTV.us",MTV East (720p)
+http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:-1 tvg-id="MTV2.us",MTV2 East (720p)
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us",Nickelodeon East (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us",Paramount Network East (1080p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/43992
-#EXTINF:-1 tvg-id="SYFY.us",SYFY East (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/43982
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/16201
+#EXTINF:-1 tvg-id="SYFY.us",SYFY East (1080p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46685
 #EXTINF:-1 tvg-id="TBS.us",TBS East (720p)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us",TeenNick East (1080p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/140004
 #EXTINF:-1 tvg-id="truTV.us",truTV East (720p)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Univision.us",Univision East (1080p)
 https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
 #EXTINF:-1 tvg-id="VH1.us",VH1 East (720p)
-http://etvserv.xyz:55337/tazz607/s8iD3k3nY2/43963
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46705
