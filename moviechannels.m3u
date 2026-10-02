@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABCWSB.us",ABC 2 Atlanta (720p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/120849
+#EXTINF:-1 tvg-id="AMC.us",AMC East (720p)
+http://198.58.104.90:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us",BBC America East (720p)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
-#EXTINF:-1 tvg-id="CMT.us",CMT East (1080p)
+#EXTINF:-1 tvg-id="CMT.us”,CMT East (1080p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46706
 #EXTINF:-1 tvg-id="ComedyCentral.us",Comedy Central East (720p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/7466
@@ -15,8 +17,12 @@ http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/41960
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/75621
 #EXTINF:-1 tvg-id="E.us",E! East (1080p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/11651
+#EXTINF:-1 tvg-id="Freeform.us",Freeform East (720p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/13370
 #EXTINF:-1 tvg-id="FX.us",FX East (720p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46690
+#EXTINF:-1 tvg-id="FXM.us",FXM (720p)
+http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/10260
 #EXTINF:-1 tvg-id="FXX.us",FXX East (720p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46699
 #EXTINF:-1 tvg-id="IFC.us",IFC East (1080p)
@@ -35,6 +41,8 @@ http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/46685
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us",TeenNick East (1080p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/140004
+#EXTINF:-1 tvg-id="TNT.us",TNT East (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="truTV.us",truTV East (720p)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Univision.us",Univision East (1080p)
