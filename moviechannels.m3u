@@ -16,11 +16,17 @@ http://primestreams.tv:826/1368/gXwiagaXda/1679
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us",Comedy Central West (720p)
 http://primestreams.tv:826/1368/gXwiagaXda/110889
 #EXTINF:-1 tvg-id="DisneyChannel.us",Disney Channel East (720p)
-http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/2206
+http://primestreams.tv:826/1368/gXwiagaXda/1358
+#EXTINF:-1 tvg-id="DisneyChannelPacific.us",Disney Channel West (720p)
+http://primestreams.tv:826/1368/gXwiagaXda/119895
 #EXTINF:-1 tvg-id="DisneyJunior.us",Disney Junior East (720p)
-http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/41960
+http://primestreams.tv:826/1368/gXwiagaXda/1261
+#EXTINF:-1 tvg-id="DisneyJuniorPacific.us",Disney Junior West (720p)
+http://primestreams.tv:826/1368/gXwiagaXda/119896
 #EXTINF:-1 tvg-id="DisneyXD.us",DisneyXD East (720p)
-http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/75621
+http://primestreams.tv:826/1368/gXwiagaXda/1672
+#EXTINF:-1 tvg-id="DisneyXDPacific.us",DisneyXD West (720p)
+http://primestreams.tv:826/1368/gXwiagaXda/119897
 #EXTINF:-1 tvg-id="E.us",E! East (1080p)
 http://nocable.cc:8080/Darrenshannon76@2.0/Darrenshannon76@2.0/11651
 #EXTINF:-1 tvg-id="Freeform.us",Freeform East (720p)
