@@ -75,7 +75,7 @@ http://primestreams.tv:826/1368/gXwiagaXda/118613
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us",TeenNick East (1080p)
 http://primestreams.tv:826/1368/gXwiagaXda/92681
-#EXTINF:-1 tvg-id="TelemundoWKTB.us",Telemundo East (720p)
+#EXTINF:-1 tvg-id="TelemundoWSCV.us",Telemundo East (720p)
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us",Telemundo East Backup (720p)
 http://primestreams.tv:826/1368/gXwiagaXda/109762
